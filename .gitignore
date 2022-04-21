@@ -6,3 +6,5 @@ bird-sound-separation/sound-separation/
 bird-sound-separation/.ipynb_checkpoints/*
 train_audio
 test_soundscapes
+
+.ipynb_checkpoints/
