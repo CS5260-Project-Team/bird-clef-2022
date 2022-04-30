@@ -1,5 +1,5 @@
 # BirdCLEF 2022
-## Kaggle Competition - BirdCLEF 2022
+## Kaggle Competition
 [https://www.kaggle.com/c/birdclef-2022](https://www.kaggle.com/c/birdclef-2022)
 ## ViT and ResNet-50 Model with Novel Data Augmentation Approaches for Bird Sounds Imbalanced Classification Problem
 [Code](https://github.com/CS5260-Project-Team/bird-clef-2022/blob/main/birdclef.ipynb)
