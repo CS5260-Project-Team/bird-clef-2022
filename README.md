@@ -12,7 +12,6 @@ Sample of separated sounds are available as follows:
 * https://github.com/CS5260-Project-Team/bird-clef-2022/tree/main/bird-sound-experiment/dataset/train_audio/houfin
 * https://github.com/CS5260-Project-Team/bird-clef-2022/tree/main/bird-sound-experiment/dataset/train_audio/yefcan
 
-Manual Labeled Separated Sounds
-[Original Metadata](https://github.com/CS5260-Project-Team/bird-clef-2022/blob/main/train_metadata.csv) vs. [Manual Labeled Metadata](https://github.com/CS5260-Project-Team/bird-clef-2022/blob/main/train_metadata_v2.csv)
+Manual labeled of separated sounds: [Original Metadata](https://github.com/CS5260-Project-Team/bird-clef-2022/blob/main/train_metadata.csv) vs. [Manual Labeled Metadata](https://github.com/CS5260-Project-Team/bird-clef-2022/blob/main/train_metadata_v2.csv)
 ## Silent Sound Removal
 [Code](https://github.com/CS5260-Project-Team/bird-clef-2022/blob/main/bird-sound-experiment/silent-sound-removal.ipynb) - To remove silent sound when generating 5 seconds mel spectrogram.
