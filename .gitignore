@@ -1,10 +1,5 @@
-./idea/*
-./ipynb_checkpoints/*
+.ipynb_checkpoints
 *.pt
-bird-sound-experiment/bird_mixit_model_checkpoints/*
-bird-sound-experiment/sound-separation/
-bird-sound-experiment/.ipynb_checkpoints/*
-train_audio
-test_soundscapes
 
-.ipynb_checkpoints/
+bird_mixit_model_checkpoints
+bird-sound-experiment/sound-separation
